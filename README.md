@@ -1,3 +1,4 @@
+This is a project for Taller Technologies as part of techincal interview.
 
 it goes through a UI Layer using compose and it combines the best practices i have by using MVVM + Clean architeture, making sure each layer has their own responsability and well-coded data communication between them.
 
